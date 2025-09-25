@@ -1,5 +1,4 @@
-<!-- profile-card.svg - kaydet ve README'e ekle -->
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="460" viewBox="0 0 850 460" preserveAspectRatio="xMidYMid meet">
   <defs>
     <!-- Animated gradient for border -->
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -14,75 +13,71 @@
       </stop>
     </linearGradient>
 
-    <!-- A thin dashed moving glow along border (optional) -->
+    <!-- Inner highlight -->
     <linearGradient id="g2" x1="0" x2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.12"/>
       <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0.12"/>
     </linearGradient>
 
-    <!-- Simple drop shadow -->
+    <!-- Drop shadow -->
     <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.12"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.2"/>
     </filter>
-
-    <!-- For skill icons (you can replace URLs) -->
   </defs>
 
-  <!-- Card background + animated colorful border -->
+  <!-- Card background -->
   <g transform="translate(20,20)">
-    <rect x="0" y="0" rx="20" ry="20" width="760" height="380" fill="#0f1724" opacity="0.95" filter="url(#f1)"/>
-    <!-- Animated border: stroke uses gradient 'g' -->
-    <rect x="0" y="0" rx="20" ry="20" width="760" height="380" fill="none" stroke="url(#g)" stroke-width="6"/>
+    <rect x="0" y="0" rx="24" ry="24" width="810" height="420" fill="#0f1724" opacity="0.96" filter="url(#f1)"/>
+    <rect x="0" y="0" rx="24" ry="24" width="810" height="420" fill="none" stroke="url(#g)" stroke-width="6"/>
+    <rect x="6" y="6" rx="18" ry="18" width="798" height="408" fill="none" stroke="url(#g2)" stroke-width="1.5"/>
 
-    <!-- subtle inner highlight -->
-    <rect x="6" y="6" rx="16" ry="16" width="748" height="368" fill="none" stroke="url(#g2)" stroke-width="1.5"/>
-
-    <!-- Left: avatar -->
-    <g transform="translate(30,30)">
+    <!-- Avatar -->
+    <g transform="translate(40,80)">
       <clipPath id="avatarClip">
-        <rect x="0" y="0" width="160" height="160" rx="12" ry="12" />
+        <rect x="0" y="0" width="200" height="200" rx="16" ry="16" />
       </clipPath>
-      <image href="https://avatars.githubusercontent.com/u/28000064?v=4" x="0" y="0" width="160" height="160" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
-      <rect x="0" y="0" width="160" height="160" rx="12" ry="12" fill="none" stroke="#ffffff22" stroke-width="2"/>
+      <image href="https://avatars.githubusercontent.com/u/181406041?v=4" x="0" y="0" width="200" height="200" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+      <rect x="0" y="0" width="200" height="200" rx="16" ry="16" fill="none" stroke="#ffffff22" stroke-width="2"/>
     </g>
 
-    <!-- Right: text content -->
-    <g transform="translate(210,40)">
-      <text x="0" y="28" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="28" fill="#fff">hs1ux</text>
-      <text x="0" y="58" font-family="Inter, Arial, sans-serif" font-size="14" fill="#cbd5e1">Just a guy who is interested in cybersecurity 🇦🇿</text>
-
-      <!-- Small bio box -->
-      <rect x="-6" y="70" rx="10" ry="10" width="520" height="120" fill="#0b1220"/>
-      <text x="10" y="98" font-family="Inter, Arial, sans-serif" font-size="13" fill="#e6eef8">
-        🔭 Currently: improving myself in cybersecurity (Network / PowerShell / Blue Team)
+    <!-- Text & Info -->
+    <g transform="translate(270,60)">
+      <!-- Title bold -->
+      <text x="0" y="32" font-family="Montserrat, Poppins, Arial, sans-serif" font-weight="800" font-size="34" fill="#fff">hs1ux</text>
+      <text x="0" y="70" font-family="Montserrat, Poppins, Arial, sans-serif" font-weight="600" font-size="16" fill="#cbd5e1">
+        Just a guy who is interested in cybersecurity 🇦🇿
       </text>
-      <text x="10" y="118" font-family="Inter, Arial, sans-serif" font-size="13" fill="#e6eef8">
+
+      <!-- Bio -->
+      <rect x="-6" y="90" rx="12" ry="12" width="520" height="130" fill="#0b1220"/>
+      <text x="10" y="115" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="600" font-size="15" fill="#e6eef8">
+        🔭 Currently: improving myself in cybersecurity
+      </text>
+      <text x="10" y="140" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="600" font-size="15" fill="#e6eef8">
         🌱 Learning: Network, PowerShell scripting, Blue Team tools
       </text>
-      <text x="10" y="138" font-family="Inter, Arial, sans-serif" font-size="13" fill="#e6eef8">
+      <text x="10" y="165" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="600" font-size="15" fill="#e6eef8">
         🎮 Plays: osu
       </text>
-      <text x="10" y="158" font-family="Inter, Arial, sans-serif" font-size="12" fill="#9fb0c8">
+      <text x="10" y="190" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="500" font-size="14" fill="#9fb0c8">
         ⚡ Perspective: The world would be different if toxic behaviour had real consequences
       </text>
 
-      <!-- Skill icons row (replace or add) -->
-      <g transform="translate(0,190)">
-        <image href="https://skillicons.dev/icons?i=linux,powershell,bash,git,python" x="0" y="0" width="260" height="32"/>
+      <!-- Skills -->
+      <g transform="translate(0,240)">
+        <image href="https://skillicons.dev/icons?i=linux,powershell,bash,git,python" x="0" y="0" width="280" height="36"/>
       </g>
 
-      <!-- Social badges -->
-      <g transform="translate(0,235)">
-        <!-- Email badge -->
+      <!-- Social -->
+      <g transform="translate(0,290)">
         <a href="mailto:bekirovm453@gmail.com">
-          <rect x="0" y="0" rx="8" ry="8" width="140" height="34" fill="#111827"/>
-          <text x="12" y="22" font-family="Inter, Arial, sans-serif" font-size="13" fill="#fff">✉ bekirovm453@gmail.com</text>
+          <rect x="0" y="0" rx="8" ry="8" width="160" height="36" fill="#111827"/>
+          <text x="12" y="23" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="700" font-size="13" fill="#fff">✉ Gmail</text>
         </a>
-        <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/murad-bakirov-115067238/">
-          <rect x="160" y="0" rx="8" ry="8" width="160" height="34" fill="#0a66c2"/>
-          <text x="172" y="22" font-family="Inter, Arial, sans-serif" font-size="13" fill="#fff">LinkedIn</text>
+          <rect x="180" y="0" rx="8" ry="8" width="160" height="36" fill="#0a66c2"/>
+          <text x="192" y="23" font-family="Poppins, Montserrat, Arial, sans-serif" font-weight="700" font-size="13" fill="#fff">LinkedIn</text>
         </a>
       </g>
     </g>
