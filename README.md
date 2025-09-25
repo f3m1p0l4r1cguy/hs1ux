@@ -1,5 +1,5 @@
-<h1 align="center" style="font-weight: bold; background: linear-gradient(90deg, #00C3FF, #FF6F91); -webkit-background-clip: text; color: transparent;">
-  Hi There! 👋 It's hs1ux
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+It's+hs1ux;" />
 </h1>
 
 <h3 align="center" style="color: #555; font-family: 'Fira Code', monospace;">
@@ -27,6 +27,7 @@
   </a>
   <a href="https://www.linkedin.com/in/murad-bakirov-115067238/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
 </div>
 
 <br/>
