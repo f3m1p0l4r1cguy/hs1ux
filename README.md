@@ -37,7 +37,7 @@
 
 <div align="center">
   <blockquote>
-    ✨ <i>"The world would be way different if toxic behaviour had real consequences"</i> ✨
+     <i>"I wish there would be consequences for every toxic behaviour"</i> 
   </blockquote>
 </div>
 
