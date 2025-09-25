@@ -27,10 +27,6 @@
   </a>
   <a href="https://www.linkedin.com/in/murad-bakirov-115067238/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px" style="margin: 10px; transition: transform 0.3s;" />
-  </a>
-  <a href="https://osu.ppy.sh/users/28000064" target="_blank">
-    <img src="https://skillicons.dev/icons?i=osu" width="50px" style="margin: 10px; transition: transform 0.3s;" />
-  </a>
 </div>
 
 <br/>
