@@ -9,8 +9,8 @@
 <br/>
 
 <div align="center" style="font-size:16px; line-height:1.8;">
-  💻 <b>Currently Improving myself in:</b> Cybersecurity  
-  🌱 <b>Learning:</b> Network, PowerShell, Blue Team Stuff  
+  💻 <b>Currently Improving myself in:</b> Cybersecurity  <br/>
+  🌱 <b>Learning:</b> Network, PowerShell, Blue Team Stuff <br/> 
   🎮 <b>Hobbies:</b>  Playing <a href="https://osu.ppy.sh/users/28000064" target="_blank"> osu!  </a>
 </div>
 
