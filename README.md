@@ -18,7 +18,7 @@
 
 🎮 Love playing **osu**
 
-⚡ Perspective: **The world would be way different if toxic behaviour had real consequences**
+**The world would be way different if toxic behaviour had real consequences**
 
 
 
