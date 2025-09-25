@@ -18,7 +18,7 @@
 
 <!-- Reach Me -->
 <div align="center">
-  <h3 style="color:#FF6F91;">📫 Reach Me</h3>
+  <h3 style="color:#5CE65C;">📫 Reach Me</h3>
   <a href="mailto:bekirovm453@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="margin: 10px; transition: transform 0.3s;" />
   </a>
