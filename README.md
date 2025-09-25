@@ -41,7 +41,7 @@
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF6F91, #00C3FF); box-shadow: 0 0 10px #FF6F91;" />
 
 <div align="center">
-  <h3 style="color:#00C3FF;">📊 Contribution Activity</h3>
-  <br>
+  
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
