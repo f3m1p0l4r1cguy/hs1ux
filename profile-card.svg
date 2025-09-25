@@ -37,7 +37,7 @@
       <clipPath id="avatarClip">
         <rect x="0" y="0" width="200" height="200" rx="16" ry="16" />
       </clipPath>
-      <image href="https://avatars.githubusercontent.com/u/181406041?v=4" x="0" y="0" width="200" height="200" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+      <image href="https://imgur.com/a/XZHUZjG" x="0" y="0" width="200" height="200" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
       <rect x="0" y="0" width="200" height="200" rx="16" ry="16" fill="none" stroke="#ffffff22" stroke-width="2"/>
     </g>
 
