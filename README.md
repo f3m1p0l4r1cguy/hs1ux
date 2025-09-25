@@ -35,7 +35,7 @@
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00C3FF, #FF6F91); box-shadow: 0 0 10px #00C3FF;" />
 
 <div align="center" style="max-width:600px; margin:auto; background:#f9f9f9; border-radius:15px; padding:20px; box-shadow:0 0 15px rgba(0,0,0,0.1);">
-  ✨ <i>"The world would be way different if toxic behaviour had real consequences"</i> ✨
+   <i>"I wish there would be consequences for every toxic behaviour of human-being"</i> 
 </div>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF6F91, #00C3FF); box-shadow: 0 0 10px #FF6F91;" />
