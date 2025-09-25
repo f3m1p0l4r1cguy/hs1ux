@@ -12,7 +12,7 @@
 
 💻 <b>Currently Working On:</b> Cybersecurity  
 🌱 <b>Learning:</b> Network, PowerShell, Blue Team Stuff  
-🎮 <b>Hobbies:</b> Playing osu!  
+🎮 <a href="https://osu.ppy.sh/users/28000064"><b>Hobbies:</b> Playing osu!  </a>
 📫 <b>Reach Me:</b> [Instagram](https://www.instagram.com/muradbakirov)  
 
 </div>
